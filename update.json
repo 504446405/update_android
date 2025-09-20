@@ -1,7 +1,7 @@
 {
   "Code": 0,
   "Msg": "",
-  "UpdateStatus": 0,
+  "UpdateStatus": 2,
   "VersionCode": 2,
   "VersionName": "1.0.1",
   "ModifyContent": "1、优化界面内容。\r\n2、添加检查更新。\r\n3、新增接口。\r\n4、优化更新提示界面。",
